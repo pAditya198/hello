@@ -1,2 +1,2 @@
 # hello
-to know how to use github
+This is a sentence #hello_world and it introduces you to the coding world.
